@@ -3,7 +3,7 @@ const app = express();
 const port = process.env.PORT || 3000;
 
 app.get('/', (req, res) => {
-  res.send('🚀 CI + CD using AWS CodeBuild & Elastic Beanstalk!');
+  res.send('🚀 SUCCESS !!!! DevOps Pipeline - CI + CD using AWS CodeBuild & Elastic Beanstalk!');
 });
 
 app.listen(port, () => {
