@@ -36,7 +36,7 @@ app.get('/', (req, res) => {
       </head>
       <body>
         <div class="box">
-          <h1>🎉 THIS IS FIRST WEBSITE!</h1>
+          <h1>🎉 THIS IS SECOND CHANGE TO TEST AUTOMATED PIPELINE!</h1>
           <p>Your new website has been successfully deployed.</p>
           <p class="highlight">Hosted on AWS Elastic Beanstalk 🚀</p>
           <p>CI powered by AWS CodeBuild</p>
