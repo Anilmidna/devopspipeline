@@ -36,7 +36,7 @@ app.get('/', (req, res) => {
       </head>
       <body>
         <div class="box">
-          <h1>🎉 THIS IS THIRD TIME TEST OF AUTOMATED PIPELINE APPROVED BY VICE PRESIDENT!</h1>
+          <h1>🎉 THIS IS FIRST TIME ON AWS CODE PIPELINE HOSTED ON ELASTIC BEANSTALK!</h1>
           <p>Your new website has been successfully deployed.</p>
           <p class="highlight">Hosted on AWS Elastic Beanstalk 🚀</p>
           <p>CI powered by GitHub</p>
